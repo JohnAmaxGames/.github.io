@@ -1,1 +1,6 @@
 google.com, pub-7578535732212399, DIRECT, f08c47fec0942fa0
+# ironSource / LevelPlay
+ironsrc.com, 208851, DIRECT, 97e9d45d2c907d3c
+ironsrc.com, 208851, RESELLER, 97e9d45d2c907d3c
+unity.com, 167499, RESELLER, 96cabb5fbdde37a7
+unity.com, 167499, DIRECT, 96cabb5fbdde37a7
